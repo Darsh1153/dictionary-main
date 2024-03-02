@@ -29,9 +29,7 @@ An interactive, easy-to-use dictionary web app built with React & Tailwind CSS f
 
 Clone the project
 
-```bash
-  git clone https://github.com/J-Ankit2020/dictionary.git
-```
+
 
 Go to the project directory
 
